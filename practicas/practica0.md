@@ -13,4 +13,4 @@ Compilar y correr xv6
 Un programa que esta compuesto de un código fuente.
 Sistema Operativo: Esta compuesto de un kernel y apliaciones del sistema.
 
-##Qué aprendí?
+### Qué aprendí?
