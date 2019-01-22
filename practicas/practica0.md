@@ -9,8 +9,8 @@ Compilar y correr xv6
 * gemu -> maquina virtual
 * make -> automatizar la compilación y compilación
 
-##Concepto:
-codigo fuente: Un programa que esta compuesto
-Sistema Operativo: Esta compuesto de un kernel y apliaciones del sistema
+## Concepto:
+Un programa que esta compuesto de un código fuente.
+Sistema Operativo: Esta compuesto de un kernel y apliaciones del sistema.
 
 ##Qué aprendí?
