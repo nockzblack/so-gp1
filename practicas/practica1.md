@@ -26,5 +26,6 @@ make
 * Software comunicar con el kernel. SF->CPU->Kernel
 
 ## Qué aprendí?
+En esta práctica aprendí como funciona las llamadas al sistema y todo el proceso involucrado en la misma. Tambien ahora sé cuales son las interrupciones y los traps! Lo que es el modo kernel y el modo usuario.
 
 ## Url del commit
