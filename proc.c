@@ -532,3 +532,35 @@ procdump(void)
     cprintf("\n");
   }
 }
+
+
+
+int sys_setpriority() {
+	int pid;
+	int priority;
+	argint(0, &pid);
+	argint(1, &priority);
+	int i = 0;
+	for(; i<NPROC; i++) {
+		if (pid == ptable.proc[i].pid) {
+			ptable.proc[i].priority = priority;
+			return 0;
+		}
+	}
+	
+	return -1;
+}
+
+
+int sys_getpriority() {
+	int pid;
+	argint(0, &pid);
+	int i = 0;
+	for(; i<NPROC; i++) {
+		if (pid == ptable.proc[i].pid) {
+			return ptable.proc[i].priority;
+		}
+	}
+	
+	return -1;
+}
