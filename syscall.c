@@ -109,7 +109,7 @@ extern int sys_shutdown(void);
 extern int sys_reboot(void);
 extern int sys_setpriority(void);
 extern int sys_getpriority(void);
-extern struct rtcdate sys_date(void);
+extern int sys_date(void);
 
 static int (*syscalls[])(void) = {
 [SYS_fork]    sys_fork,
