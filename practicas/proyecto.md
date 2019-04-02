@@ -30,3 +30,4 @@ Comprender el funcionamiento de las llamadas a sistema y cómo se implementan en
 Se relacionan de manera uniforme ya que sin lo visto anteriormente no se puede formar lo que requiere este proyecto.
 
 # Url del commit
+https://github.com/nockzblack/so-gp1/commit/3c480f4c5d45690fc8109f4860c04ed0b1a6b43c
