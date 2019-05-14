@@ -6,8 +6,8 @@
 #include <stdlib.h>
 
 
-#define NUM_PHILOSOPHERS 5
-#define NUM_FORKS 5
+#define NUM_PHILOSOPHERS 10000
+#define NUM_FORKS 10000
 
 
 sem_t forks[NUM_FORKS];
