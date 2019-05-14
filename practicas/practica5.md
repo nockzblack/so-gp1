@@ -35,4 +35,4 @@
 	+ Crear numeros random con c
 	
 	# Url del commit
-	https://github.com/nockzblack/so-gp1/commit/1c6222d6ec0879e431b182026eea168f144fbb8c
+https://github.com/nockzblack/so-gp1/commit/1c6222d6ec0879e431b182026eea168f144fbb8c
